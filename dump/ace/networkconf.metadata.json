@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ace.networkconf"},{"v":2,"key":{"site_id":1},"name":"site_id_1","ns":"ace.networkconf"},{"v":2,"key":{"name":1,"site_id":1},"name":"name_1_site_id_1","ns":"ace.networkconf"}],"uuid":"5ebd221f3a14459e998081b4a15ed902"}

@@ -1,0 +1,1 @@
+{"_id":{"$oid":"60b8cb00390d450643a48f64"},"event_type":"SETUP_COMPLETED","creation_timestamp":{"$date":{"$numberLong":"1622723328649"}}}
