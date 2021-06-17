@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ace_stat.stat_minute"},{"v":2,"key":{"site_id":1,"datetime":1},"name":"site_id_1_datetime_1","ns":"ace_stat.stat_minute"},{"v":2,"key":{"datetime":1,"o":1,"site_id":1,"oid":1},"name":"datetime_1_o_1_site_id_1_oid_1","ns":"ace_stat.stat_minute"}],"uuid":"1a28656f1c594a189da1f8a7a561188f"}

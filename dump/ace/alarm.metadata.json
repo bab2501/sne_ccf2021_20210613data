@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ace.alarm"},{"v":2,"key":{"archived":1},"name":"archived_1","ns":"ace.alarm"},{"v":2,"key":{"datetime":1},"name":"datetime_1","ns":"ace.alarm"}],"uuid":"564e7205a41241219f69d59f92463e49"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ace.heatmap"},{"v":2,"key":{"site_id":1},"name":"site_id_1","ns":"ace.heatmap"},{"v":2,"key":{"map_id":1,"site_id":1},"name":"map_id_1_site_id_1","ns":"ace.heatmap"},{"v":2,"key":{"type":1,"site_id":1},"name":"type_1_site_id_1","ns":"ace.heatmap"}],"uuid":"82859c65572443c8bedf9eefb0fcc449"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ace.setting"},{"v":2,"key":{"key":1,"site_id":1},"name":"key_1_site_id_1","ns":"ace.setting"},{"v":2,"key":{"site_id":1},"name":"site_id_1","ns":"ace.setting"}],"uuid":"5268ffa3ecac40fe92d0f9026999a46a"}

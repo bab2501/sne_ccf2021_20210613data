@@ -1,0 +1,1 @@
+{"_id":{"$oid":"60b8ca5e390d450643a48f4f"},"site_id":"60b8ca58390d450643a48f3d","name":"Default","attr_hidden_id":"Default","attr_no_delete":true,"qos_rate_max_up":{"$numberInt":"-1"},"qos_rate_max_down":{"$numberInt":"-1"}}

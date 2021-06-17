@@ -1,0 +1,5 @@
+{"_id":{"$oid":"60b8ca5e390d450643a48f52"},"site_id":"60b8ca58390d450643a48f3d","name":"All","forward":"all","attr_hidden_id":"All","attr_hidden":true,"attr_no_delete":true,"attr_no_edit":true}
+{"_id":{"$oid":"60b8ca5e390d450643a48f53"},"site_id":"60b8ca58390d450643a48f3d","name":"Disabled","forward":"disabled","attr_hidden_id":"Disabled","attr_hidden":true,"attr_no_delete":true,"attr_no_edit":true}
+{"_id":{"$oid":"60b8ca5e390d450643a48f54"},"site_id":"60b8ca58390d450643a48f3d","name":"LAN","forward":"native","native_networkconf_id":"60b8ca5e390d450643a48f4e","attr_hidden_id":"LAN","attr_hidden":true,"attr_no_delete":true,"attr_no_edit":true}
+{"_id":{"$oid":"60b8f93d390d4510b52c7e22"},"site_id":"60b8ca58390d450643a48f3c","name":"All","forward":"all","attr_hidden_id":"All","attr_hidden":true,"attr_no_delete":true,"attr_no_edit":true}
+{"_id":{"$oid":"60b8f93d390d4510b52c7e23"},"site_id":"60b8ca58390d450643a48f3c","name":"Disabled","forward":"disabled","attr_hidden_id":"Disabled","attr_hidden":true,"attr_no_delete":true,"attr_no_edit":true}
