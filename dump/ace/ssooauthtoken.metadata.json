@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ace.ssooauthtoken"},{"v":2,"key":{"ssooauthtoken":1},"name":"ssooauthtoken_1","ns":"ace.ssooauthtoken"}],"uuid":"f01d6a42974f415082c2251988596c5e"}

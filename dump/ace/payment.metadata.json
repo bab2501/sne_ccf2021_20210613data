@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ace.payment"},{"v":2,"key":{"within":1,"site_id":1},"name":"within_1_site_id_1","ns":"ace.payment"},{"v":2,"key":{"time":1,"site_id":1},"name":"time_1_site_id_1","ns":"ace.payment"},{"v":2,"key":{"site_id":1},"name":"site_id_1","ns":"ace.payment"}],"uuid":"b0463cc070c0421eafef2e43937ea4b2"}
